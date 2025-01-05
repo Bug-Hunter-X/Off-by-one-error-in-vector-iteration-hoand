@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in C++ when iterating through a `std::vector`.  The original code attempts to access an element beyond the vector's valid index range, leading to undefined behavior. The solution provides the corrected code with explanation.
